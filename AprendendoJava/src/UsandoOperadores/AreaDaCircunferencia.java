@@ -8,8 +8,8 @@ public class AreaDaCircunferencia {
 		double raio = 3.0;
 		double formula = pi * (raio * raio);
 		
-		System.out.println ("O resultado Ã©: " + formula);
-		System.out.println ("fim!");
+		System.out.println ("O resultado é: " + formula);
+		System.out.println ("fim!!!!");
 	}
 	
 }
